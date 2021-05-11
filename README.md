@@ -11,4 +11,4 @@ A user can input information such as Name and Paid via text and checkbox. Once a
 
 Information is saved into a file once program is exited. 
 
-![](image/registrationText.png)
+![](image/registrationTxt.png)
